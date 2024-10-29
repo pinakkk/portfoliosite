@@ -83,5 +83,3 @@ Want to connect? You can reach me at:
 
 Email: pinakkundu100@gmail.com
 LinkedIn: [Pinak Kundu](www.linkedin.com/in/pinakkk)
-
-Feel free to replace the placeholders with actual links and adjust any content as needed!
