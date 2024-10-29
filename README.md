@@ -2,10 +2,9 @@
 
 Welcome to my portfolio project! This site serves as a showcase of my skills, experience, and projects. Built with React, it offers a visually engaging, modern interface to help you learn more about my work and design style. Tailwind CSS will be integrated in the future for enhanced styling.
 
-<!-- Replace with actual screenshot link -->
 
 ## 🌌 Live Demo
-Visit the Live Site: [Your Live Website](<!-- Replace with your live website link -->)
+Visit the Live Site: [Live Here](https://pinak.devsdose.io)
 
 ## 🧩 Features
 - **Interactive UI**: Seamlessly crafted user interface for an engaging user experience.
@@ -29,35 +28,29 @@ Visit the Live Site: [Your Live Website](<!-- Replace with your live website lin
 - Basic understanding of React.
 
 ### Installation
-Clone the repository:
-
-```bash
+1. Clone the repository: 
+```
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-bash```
-
-
-Install dependencies:
-
-bash
-Copy code
+```
+2. Install dependencies:
+```
 npm install
-Run the development server:
-
-bash
-Copy code
+```
+3. Run the development server:
+```
 npm start
-Open your browser:
-
+```
+4. Open your browser:
+```
 Visit http://localhost:3000 to view the site.
-
-Building for Production
-bash
-Copy code
+```
+5. Building for Production
+```
 npm run build
-```bash
+```
 
-## 🖌️ Customization
+###🖌️ Customization
 Tailwind Configuration: Customize colors, spacing, and theme in tailwind.config.js (coming soon).
 Components: Modify sections in the src/components folder to suit your portfolio needs.
 
@@ -76,11 +69,12 @@ portfolio/
 └── README.md              # Project documentation
 
 ## 📸 Screenshots
-<!-- Replace with actual screenshot link -->
-The skills section: showcasing my core technical proficiencies.
+![The skills section: showcasing my core technical proficiencies]
+(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYPwiuvyExxli83SHMXhqAlbLulR_1FwoQ_2HCvVw7253juhTlT3cGwTkxTpJUOL8_3b2Hg2alPWnu1qgr17s8rYyCpfqA7QPgzJc3vhKIzw-By1GVBlsPWvnXEPxCzsPxHoGOpDcaM3T5e_6keNFTuv7_65Wh3yKUajZAIGF7uB6M9lT1l85mIRPeM4M/s320/skillset.png)
 
-<!-- Replace with actual screenshot link -->
-The contact section: get in touch directly via a smooth, modern form.
+
+![The contact section: get in touch directly via a smooth, modern form]
+(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrEraZ3JJTdfLyZO5FdrHOwGfnlI14gEuUvOB15keRVlL__H4IAXB-yuRHV15fNUWoOjEwVtbAcCKz38bJUhw4Mf01sfAaZvDSfNvoKrLN5lIvuNzoi2lpxUnY0De0Nct82G6oMk3bNrczoCZgPg1jDOXQwakpYwMXPb9c7bU7zh9qWhT-HKem-S3yYs/s320/contact.png)
 
 ##🤝 Contributing
 Feel free to fork this repository and submit a pull request if you have any ideas for improving the project.
@@ -89,8 +83,6 @@ Feel free to fork this repository and submit a pull request if you have any idea
 Want to connect? You can reach me at:
 
 Email: pinakkundu100@gmail.com
-LinkedIn: LinkedIn Profile
-python
-Copy code
+LinkedIn: [Pinak Kundu](www.linkedin.com/in/pinakkk)
 
 Feel free to replace the placeholders with actual links and adjust any content as needed!
