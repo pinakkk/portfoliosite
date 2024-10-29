@@ -55,6 +55,7 @@ Tailwind Configuration: Customize colors, spacing, and theme in tailwind.config.
 Components: Modify sections in the src/components folder to suit your portfolio needs.
 
 ## 📂 Folder Structure
+```
 portfolio/
 ├── public/                 # Contains static files such as images, icons, and other assets.
 │   └── .../            
@@ -66,12 +67,13 @@ portfolio/
 │   └── ...           # Main entry point for the application.
 ├── tailwind.config.js      # Configuration file for Tailwind CSS (coming soon).
 └── README.md               # Project documentation.
+```
 
 ## 📸 Screenshots
-[The skills section: showcasing my core technical proficiencies](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYPwiuvyExxli83SHMXhqAlbLulR_1FwoQ_2HCvVw7253juhTlT3cGwTkxTpJUOL8_3b2Hg2alPWnu1qgr17s8rYyCpfqA7QPgzJc3vhKIzw-By1GVBlsPWvnXEPxCzsPxHoGOpDcaM3T5e_6keNFTuv7_65Wh3yKUajZAIGF7uB6M9lT1l85mIRPeM4M/s320/skillset.png)
+![The skills section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYPwiuvyExxli83SHMXhqAlbLulR_1FwoQ_2HCvVw7253juhTlT3cGwTkxTpJUOL8_3b2Hg2alPWnu1qgr17s8rYyCpfqA7QPgzJc3vhKIzw-By1GVBlsPWvnXEPxCzsPxHoGOpDcaM3T5e_6keNFTuv7_65Wh3yKUajZAIGF7uB6M9lT1l85mIRPeM4M/s320/skillset.png)
 
 
-[The contact section: get in touch directly via a smooth, modern form](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrEraZ3JJTdfLyZO5FdrHOwGfnlI14gEuUvOB15keRVlL__H4IAXB-yuRHV15fNUWoOjEwVtbAcCKz38bJUhw4Mf01sfAaZvDSfNvoKrLN5lIvuNzoi2lpxUnY0De0Nct82G6oMk3bNrczoCZgPg1jDOXQwakpYwMXPb9c7bU7zh9qWhT-HKem-S3yYs/s320/contact.png)
+![The contact section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrEraZ3JJTdfLyZO5FdrHOwGfnlI14gEuUvOB15keRVlL__H4IAXB-yuRHV15fNUWoOjEwVtbAcCKz38bJUhw4Mf01sfAaZvDSfNvoKrLN5lIvuNzoi2lpxUnY0De0Nct82G6oMk3bNrczoCZgPg1jDOXQwakpYwMXPb9c7bU7zh9qWhT-HKem-S3yYs/s320/contact.png)
 
 ##🤝 Contributing
 Feel free to fork this repository and submit a pull request if you have any ideas for improving the project.
