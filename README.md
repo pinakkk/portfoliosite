@@ -34,6 +34,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
+bash```
+
 
 Install dependencies:
 
@@ -53,7 +55,7 @@ Building for Production
 bash
 Copy code
 npm run build
-
+```bash
 
 ## 🖌️ Customization
 Tailwind Configuration: Customize colors, spacing, and theme in tailwind.config.js (coming soon).
