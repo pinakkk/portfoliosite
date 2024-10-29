@@ -2,8 +2,6 @@
 
 Welcome to my portfolio project! This site serves as a showcase of my skills, experience, and projects. Built with React, it offers a visually engaging, modern interface to help you learn more about my work and design style. Tailwind CSS will be integrated in the future for enhanced styling.
 
-![portfolio-site](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRZESQtzAry8_Sids90RkUe3dHoqF1yXhYGTX1-0vWS8RqX0KliUByiBKsj5ou9bQLDvlswhyphenhyphenRamb2T5DneccFHsxfJsEG0xS8Rxv-ZNs84qNibvgt-Wo604o86B-8DsTENFHSqybr-oyl63I7JEJYyxy0kFdESykt_x7lj-4vZpUNlhCIvzj6r4kOl4/s320/Desktop%20-%201%20(9).png)
-
 ## 🌌 Live Demo
 Visit the Live Site: [Live Here](https://pinak.devsdose.io)
 
