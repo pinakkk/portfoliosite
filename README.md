@@ -2,6 +2,7 @@
 
 Welcome to my portfolio project! This site serves as a showcase of my skills, experience, and projects. Built with React, it offers a visually engaging, modern interface to help you learn more about my work and design style. Tailwind CSS will be integrated in the future for enhanced styling.
 
+![portfolio-site](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRZESQtzAry8_Sids90RkUe3dHoqF1yXhYGTX1-0vWS8RqX0KliUByiBKsj5ou9bQLDvlswhyphenhyphenRamb2T5DneccFHsxfJsEG0xS8Rxv-ZNs84qNibvgt-Wo604o86B-8DsTENFHSqybr-oyl63I7JEJYyxy0kFdESykt_x7lj-4vZpUNlhCIvzj6r4kOl4/s320/Desktop%20-%201%20(9).png)
 
 ## 🌌 Live Demo
 Visit the Live Site: [Live Here](https://pinak.devsdose.io)
@@ -70,15 +71,16 @@ portfolio/
 ```
 
 ## 📸 Screenshots
+The skills section :
 ![The skills section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYPwiuvyExxli83SHMXhqAlbLulR_1FwoQ_2HCvVw7253juhTlT3cGwTkxTpJUOL8_3b2Hg2alPWnu1qgr17s8rYyCpfqA7QPgzJc3vhKIzw-By1GVBlsPWvnXEPxCzsPxHoGOpDcaM3T5e_6keNFTuv7_65Wh3yKUajZAIGF7uB6M9lT1l85mIRPeM4M/s320/skillset.png)
 
-
+The contact section :
 ![The contact section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrEraZ3JJTdfLyZO5FdrHOwGfnlI14gEuUvOB15keRVlL__H4IAXB-yuRHV15fNUWoOjEwVtbAcCKz38bJUhw4Mf01sfAaZvDSfNvoKrLN5lIvuNzoi2lpxUnY0De0Nct82G6oMk3bNrczoCZgPg1jDOXQwakpYwMXPb9c7bU7zh9qWhT-HKem-S3yYs/s320/contact.png)
 
-##🤝 Contributing
+## 🤝Contributing
 Feel free to fork this repository and submit a pull request if you have any ideas for improving the project.
 
-##📬 Contact
+## 📬Contact
 Want to connect? You can reach me at:
 
 Email: pinakkundu100@gmail.com
