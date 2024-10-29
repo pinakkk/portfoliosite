@@ -11,7 +11,7 @@ const Editor = () => {
                         <div className="button minimize"></div>
                         <div className="button maximize"></div>
                     </div>
-                    <div className="title">yeyey</div> {/* Updated window name */}
+                    <div className="title"></div> {/* Updated window name */}
                 </div>
                 <div className="content">
                     <div className="sidebar">

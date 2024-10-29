@@ -9,19 +9,19 @@ import Behance from './images/behance.png';
 const Socials = () => {
   return (
     <div className="socials-container">
-      <a href="https://link-to-social.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/pinakkk" target="_blank" rel="noopener noreferrer">
         <img src={Linkedin} alt="Social Icon" className="social-icon" />
       </a>
-      <a href="https://link-to-other-social.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://open.spotify.com/playlist/0BgLblFwW6ru8lfcpwmKxf?si=11c2464c9b3749be" target="_blank" rel="noopener noreferrer">
         <img src={Spotify} alt="Other Social Icon" className="social-icon" />
       </a>
-      <a href="https://link-to-social.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/pinakkk" target="_blank" rel="noopener noreferrer">
         <img src={Github} alt="Social Icon" className="social-icon" />
       </a>
-      <a href="https://link-to-other-social.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://behance.net/pinakkundu" target="_blank" rel="noopener noreferrer">
         <img src={Behance} alt="Other Social Icon" className="social-icon" />
       </a>
-      <a href="https://link-to-social.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://instagram.com/pinakk.io" target="_blank" rel="noopener noreferrer">
         <img src={Instagram} alt="Social Icon" className="social-icon" />
       </a>
     </div>

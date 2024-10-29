@@ -4,12 +4,11 @@
     justify-content: center;
     align-items: center;
     background-color: #1B0031;
-    margin-bottom: 50px;
   }
   
   .social-icon {
-    width: 50px; /* Smaller size */
-    height: 50px;
+    width: 40px; /* Smaller size */
+    height: 40px;
     transition: transform 0.2s;
   }
   

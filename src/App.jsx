@@ -15,10 +15,10 @@ const App = () => (
     <Hero />
     <Skills />
     <MoonSection />
-    {/* <Editor/> */}
-    <CodeEditor/>
-    <Contact />
+    <Editor/>
+    {/* <CodeEditor/> */}
     <Socials/>
+    <Contact />
   </div>
 );
 

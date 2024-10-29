@@ -33,7 +33,7 @@ const Contact = () => {
               className="form-textarea"
             ></textarea>
             <button type="submit" className="form-button">
-              <span>Send it to me & moon</span>
+              <span>Send it to me</span>
               <i className="fas fa-rocket"></i>
             </button>
           </form>
