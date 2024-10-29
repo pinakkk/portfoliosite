@@ -1,0 +1,19 @@
+.socials-container {
+    display: flex;
+    gap: 1rem; /* Space between icons */
+    justify-content: center;
+    align-items: center;
+    background-color: #1B0031;
+    margin-bottom: 50px;
+  }
+  
+  .social-icon {
+    width: 50px; /* Smaller size */
+    height: 50px;
+    transition: transform 0.2s;
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+  }
+  

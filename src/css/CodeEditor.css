@@ -1,0 +1,13 @@
+.codeditor {
+    display: flex;
+    background-color: #1B0031;
+    justify-content: center; /* Center the image horizontally */
+}
+
+.code-editor-image {
+    margin-top: 50px;
+    width: 80%; /* Adjust the width percentage as needed */
+    max-width: 1000px; /* Optional: set a maximum width */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 50px;
+}

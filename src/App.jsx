@@ -1,29 +1,25 @@
+import React from 'react';
+import Header from './Header';
+import Hero from './Hero';
+import Skills from './Skills';
+import MoonSection from './Moonsection';
+import Contact from './Contact';
+import Editor from './Editor';
 import './App.css';
+import CodeEditor from './CodeEditor';
+import Socials from './Socials';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </p>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+  <div className="App">
+    <Header />
+    <Hero />
+    <Skills />
+    <MoonSection />
+    {/* <Editor/> */}
+    <CodeEditor/>
+    <Contact />
+    <Socials/>
+  </div>
+);
 
 export default App;

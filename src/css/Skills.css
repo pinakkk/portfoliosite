@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+#skills {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #1B0031;
+}
+
+#skills h2 {
+  color: #fff;
+  font-size: 1.8rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+
+}
+
+#skills .highlight {
+  color: #843CFF;
+}
+
+.skill-icons {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.skill-icons img {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+#img2 {
+  width: 30%;
+  height: auto;
+}
