@@ -1,4 +1,4 @@
-# 🚀 Pinak's Portfolio
+# 🚀 Dark Themed Futuristic Personal Portfolio Website 
 
 Welcome to my portfolio project! This site serves as a showcase of my skills, experience, and projects. Built with React, it offers a visually engaging, modern interface to help you learn more about my work and design style. Tailwind CSS will be integrated in the future for enhanced styling.
 
