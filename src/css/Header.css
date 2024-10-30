@@ -1,17 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 20px;
-    background-color: #4B0082;
+    background-color: #2F0254;
+    font-family: 'Poppins', sans-serif; 
   }
   
   header h1 {
-    color: #FFC0CB;
+    color: #E4DAF5;
     font-size: 2rem;
+    font-weight: 500;
   }
   
   header nav a {
+    font-weight: 400;
     color: #fff;
     margin: 0 15px;
     text-decoration: none;
@@ -19,6 +24,21 @@ header {
   }
   
   header nav a:hover {
-    color: #FFC0CB;
+    color: #d719f9;
+    text-decoration: none;
+  }
+
+  header .hhigh{
+    color: #843CFF;
   }
   
+
+  @media (max-width: 768px){
+    header nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 0.8rem;
+    }
+
+  }

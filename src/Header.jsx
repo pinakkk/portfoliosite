@@ -3,7 +3,7 @@ import './css/Header.css';
 
 const Header = () => (
   <header>
-    <h1>Pinak</h1>
+    <h1>Pina<span className="hhigh">k</span></h1>
     <nav>
       <a href="#works">Works</a>
       <a href="#about">About</a>

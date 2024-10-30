@@ -1,5 +1,22 @@
-img {
-  width: 100%;
-  height: auto;
-  display: block;
+.moon-img {
+  width: 100%; /* Ensure the images take full width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.large {
+  display: block; /* Show large image by default */
+}
+
+.small {
+  display: none; /* Hide small image by default */
+}
+
+@media (max-width: 768px) {
+  .large {
+      display: none; /* Hide large image on small screens */
+  }
+
+  .small {
+      display: block; /* Show small image on small screens */
+  }
 }

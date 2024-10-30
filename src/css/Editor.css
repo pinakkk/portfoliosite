@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-
 body {
     background-color: #1B0031;
     color: #FFFFFF;
@@ -9,21 +8,23 @@ body {
     padding: 0;
 }
 
-.container {
+.app-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: auto;
+    width: auto;
     background-color: #1B0031;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-.window {
+.editor-window {
     width: 100%;
-    max-width: 800px; /* Set a maximum width for the window */
+    max-width: 800px;
     height: 50vh;
     display: flex;
     flex-direction: column;
-
     border-radius: 100px;
 }
 
@@ -36,35 +37,35 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.title-bar .buttons {
+.title-bar-buttons {
     display: flex;
     gap: 5px;
 }
 
-.title-bar .buttons .button {
+.title-bar-button {
     width: 12px;
     height: 12px;
     border-radius: 50%;
 }
 
-.title-bar .buttons .close {
+.button-close {
     background-color: #FF5F56;
 }
 
-.title-bar .buttons .minimize {
+.button-minimize {
     background-color: #FFBD2E;
 }
 
-.title-bar .buttons .maximize {
+.button-maximize {
     background-color: #27C93F;
 }
 
-.title-bar .title {
+.title-bar-title {
     margin-left: 10px;
     font-weight: bold;
 }
 
-.content {
+.editor-content {
     display: flex;
     flex: 1;
 }
@@ -77,11 +78,11 @@ body {
     box-shadow: 2px 0 4px rgba(0, 0, 0, 0.2);
 }
 
-.sidebar .folder {
+.folder {
     margin-bottom: 10px;
 }
 
-.sidebar .folder .folder-name {
+.folder-name {
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -90,26 +91,26 @@ body {
     transition: background-color 0.2s;
 }
 
-.sidebar .folder .folder-name:hover {
+.folder-name:hover {
     background-color: #3B3A4A;
 }
 
-.sidebar .folder .folder-name.folder-icon::before {
+.folder-icon::before {
     content: '📁';
     margin-right: 5px;
 }
 
-.sidebar .folder .folder-name.arrow-icon::before {
+.arrow-icon::before {
     content: '≫';
     margin-right: 5px;
     margin-left: 15px;
 }
 
-.sidebar .folder .folder-name.arrow-icon.open::before {
+.arrow-icon.open::before {
     content: '▼';
 }
 
-.sidebar .folder .file {
+.file {
     margin-left: 20px;
     display: flex;
     align-items: center;
@@ -119,17 +120,17 @@ body {
     transition: background-color 0.2s;
 }
 
-.sidebar .folder .file:hover {
+.file:hover {
     background-color: #3B3A4A;
 }
 
-.sidebar .folder .file::before {
+.file::before {
     content: '📄';
     margin-right: 5px;
     margin-left: 15px;
 }
 
-.editor {
+.code-editor {
     flex: 1;
     background-color: #1E1E2E;
     padding: 20px;
@@ -138,34 +139,90 @@ body {
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.editor .line {
+.line {
     display: flex;
-    
 }
 
-.editor .line-number {
+.line-number {
     color: #5C5C5C;
     width: 30px;
     text-align: right;
     margin-right: 10px;
 }
 
-.editor .code {
+.code-content {
     color: #FFFFFF;
 }
 
-.editor .code .comment {
+.comment {
     color: #6A9955;
 }
 
-.editor .code .string {
+.string {
     color: #CE9178;
 }
 
-.editor .code .keyword {
+.keyword {
     color: #569CD6;
 }
 
-.editor .code .variable {
+.variable {
     color: #9CDCFE;
+}
+
+/* Responsive Design */
+
+@media (max-width: 768px) {
+    .app-container{
+        height: auto;
+        width: auto;
+    }
+
+    .editor-window {
+        height: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    .editor-content {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: auto;
+        border-right: none;
+        border-bottom: 1px solid #3B3A4A;
+        box-shadow: none;
+        margin-bottom: 10px;
+    }
+
+    .code-editor {
+        padding: 15px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .title-bar {
+        flex-direction: column;
+        padding: 8px;
+    }
+
+    .title-bar-buttons {
+        gap: 3px;
+    }
+
+    .title-bar-button {
+        width: 10px;
+        height: 10px;
+    }
+
+    .code-editor {
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    .line-number {
+        width: 20px;
+    }
 }
