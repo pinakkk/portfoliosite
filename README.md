@@ -69,6 +69,7 @@ portfolio/
 ```
 
 ## 📸 Screenshots
+![]()
 ![The skills section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYPwiuvyExxli83SHMXhqAlbLulR_1FwoQ_2HCvVw7253juhTlT3cGwTkxTpJUOL8_3b2Hg2alPWnu1qgr17s8rYyCpfqA7QPgzJc3vhKIzw-By1GVBlsPWvnXEPxCzsPxHoGOpDcaM3T5e_6keNFTuv7_65Wh3yKUajZAIGF7uB6M9lT1l85mIRPeM4M/s320/skillset.png)
 
 ![Works Section](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwdJXGLBMArUpFEal93wNR4JKI47zJX8xOBRBl0mC8toVNRTVxIn1R07Q-YSWxnuqsYzm0tQeXJfOSb7iQs_HGCx3YMJd23UlpM0WEn22DRmFrhl2RDw0zHjrJf0zePnYDnP_tPU2aYV0rOtYmN9jD-ylJSZVLErttMZ3eNPwLuvy5CCxMmpLxCJuPjw/s320/Frame%2015%20(1).png)
@@ -81,5 +82,5 @@ Feel free to fork this repository and submit a pull request if you have any idea
 ## 📬Contact
 Want to connect? You can reach me at:
 
-Email: pinakkundu100@gmail.com
+Email: pinakkundu1080@gmail.com
 LinkedIn: [Pinak Kundu](www.linkedin.com/in/pinakkk)
